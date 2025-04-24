@@ -1,5 +1,5 @@
 
-#Recuperación de archivos borrados\
+#Recuperación de archivos borrados
 
 
 Simularemos un error en GitHub donde borraremos accidentalmente un archivo llamado errores.sh
